@@ -1,0 +1,2 @@
+# animatedThermometer
+Basic animated thermometer
